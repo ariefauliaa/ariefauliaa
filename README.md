@@ -3,7 +3,7 @@
 
 Welcome to my GitHub, I’m Arief from Indonesia.
 
-I focus on quantitative analysis in financial markets. I enjoy building systematic strategies, making data driven decisions, and spotting patterns in market behavior.
+I enjoy building systematic strategies, making data driven decisions, and spotting patterns in market behavior.
 
 On a daily basis? It’s learning, backtesting, learning, backtesting — rinse and repeat. I really believe that past performance can indicate future results (psst... NVDA’s move wasn’t a total surprise — sometimes the past leaves clues ^_^).
 
