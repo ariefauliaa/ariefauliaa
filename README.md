@@ -1,7 +1,13 @@
 
 # 📊 Quantitative Investing Projects
 
-Welcome to my GitHub. I'm a Quantitative Analyst focused on building systematic investing strategies, developing custom analytics tools, and automating decision making in financial markets. This space showcases some of my ongoing work in strategy research, backtesting, and infrastructure development.
+Welcome to my GitHub, I’m Arief from Indonesia.
+
+I focus on quantitative analysis, especially in the financial markets. I'm into building systematic investing strategies and frameworks, making data driven decisions, and constantly searching for patterns in market behavior.
+
+On a daily basis? It’s learning, backtesting, learning, backtesting — rinse and repeat. I really believe that past performance can indicate future results (psst... NVDA’s move wasn’t a total surprise — sometimes the past leaves clues ^_^).
+
+This space is where I share some of the things I'm building, testing, and exploring.
 
 ---
 
