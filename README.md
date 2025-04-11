@@ -3,7 +3,7 @@
 
 Welcome to my GitHub, I’m Arief from Indonesia.
 
-I focus on quantitative analysis, especially in the financial markets. I'm into building systematic investing strategies and frameworks, making data driven decisions, and constantly searching for patterns in market behavior.
+I focus on quantitative analysis in financial markets. I enjoy building systematic strategies, making data driven decisions, and spotting patterns in market behavior.
 
 On a daily basis? It’s learning, backtesting, learning, backtesting — rinse and repeat. I really believe that past performance can indicate future results (psst... NVDA’s move wasn’t a total surprise — sometimes the past leaves clues ^_^).
 
@@ -13,8 +13,8 @@ This space is where I share some of the things I'm building, testing, and explor
 
 ## 🧠 About Me
 
-- 💼 Professional experience across **equity research, asset management, and quantitative investing**
-- 🧮 Passionate about **research-backed strategy design and robust backtesting frameworks** 
+- 💼 Professional experience across **equity research and asset management**
+- 🧮 Passionate about **research backed strategy design and robust backtesting frameworks** 
 - ☪️ I maintain alignment with **ethical and halal investing principles**
 
 ---
