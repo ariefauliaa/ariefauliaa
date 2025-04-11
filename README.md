@@ -1,5 +1,5 @@
 
-# 📊 Quantitative Investing Projects
+# 📊 Quant Projects
 
 Welcome to my GitHub, I’m Arief from Indonesia.
 
