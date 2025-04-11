@@ -1,14 +1,14 @@
 
 # 📊 Quantitative Investing Projects
 
-Welcome to my GitHub. I'm a Quantitative Analyst focused on building systematic investing strategies, developing custom analytics tools, and automating decision-making in financial markets. This space showcases some of my ongoing work in strategy research, backtesting, and infrastructure development.
+Welcome to my GitHub. I'm a Quantitative Analyst focused on building systematic investing strategies, developing custom analytics tools, and automating decision making in financial markets. This space showcases some of my ongoing work in strategy research, backtesting, and infrastructure development.
 
 ---
 
 ## 🧠 About Me
 
-- 💼 Professional experience across equity research, asset management, and quantitative investing
-- 🧮 Passionate about research-backed strategy design and robust backtesting frameworks  
+- 💼 Professional experience across **equity research, asset management, and quantitative investing**
+- 🧮 Passionate about **research-backed strategy design and robust backtesting frameworks** 
 - ☪️ I maintain alignment with **ethical and halal investing principles**
 
 ---
