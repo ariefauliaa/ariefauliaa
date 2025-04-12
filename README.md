@@ -1,5 +1,5 @@
 
-# 📊 Quant Projects
+# 😁 Introduction
 
 Welcome to my GitHub, I’m Arief from Indonesia.
 
