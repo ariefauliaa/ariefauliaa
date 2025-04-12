@@ -13,7 +13,7 @@ This space is where I share some of the things I'm building, testing, and explor
 
 ## 🧠 About Me
 
-- 💼 Professional experience across **equity research & asset management**
+- 💼 Experience across **equity research & asset management**
 - 🧮 Passionate about **research backed strategy design & robust backtesting frameworks** 
 - ☪️ I maintain alignment with **ethical & halal investing principles**
 
