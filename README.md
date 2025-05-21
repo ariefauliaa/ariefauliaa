@@ -7,6 +7,8 @@ My focus is on turning mathematical ideas into quantitative investing systems th
 
 On a daily basis it’s learning, backtesting, learning, backtesting, learning, backtesting, rinse and repeat. I really believe that past performance can indicate future results (NVDA’s move wasn’t a total surprise, sometimes the past leaves clues ^_^).
 
+When I find a robust quant strategy, my focus shifts to breaking it, finding the flaws, fixing them, and then repeat the cycle. At some point, it stopped being about money. I just love the challenge. Cracking the market is the reward.
+
 This space is where I share some of the things I'm building, testing, and exploring.
 
 ---
