@@ -3,7 +3,7 @@
 
 Welcome to my GitHub, I’m Arief from Indonesia.
 
-My focus is on turning mathematical ideas into quantitative investing systems that decode market behavior. Anything that blends math and the markets instantly gets my attention.
+My focus is on turning mathematical ideas into quantitative systems that decode market behavior. Anything that blends math and the markets instantly gets my attention.
 
 On a daily basis it’s learning, backtesting, learning, backtesting, learning, backtesting, rinse and repeat. I really believe that past performance can indicate future results (NVDA’s move wasn’t a total surprise, sometimes the past leaves clues ^_^).
 
