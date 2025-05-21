@@ -14,7 +14,7 @@ This space is where I share some of the things I'm building, testing, and explor
 ## 🧠 About Me
 
 - 💼 Experience across **equity research & asset management**
-- 🧮 Passionate about **research backed strategy design & robust backtesting frameworks** 
+- 🧮 Passionate about **research backed strategy design & backtesting frameworks** 
 - ☪️ I maintain alignment with **ethical & halal investing principles**
 
 ---
@@ -23,10 +23,8 @@ This space is where I share some of the things I'm building, testing, and explor
 
 - **Systematic Strategy Design**  
 - **Backtesting & Performance Analysis**  
-- **Multi-Timeframe Data Integration**  
 - **Automation & Execution Systems**  
-- **Machine Learning for Signal Enhancement**  
-- **Custom Analytics Dashboards & Visualizations**
+- **ML & DeepLearning**  
 
 ---
 
