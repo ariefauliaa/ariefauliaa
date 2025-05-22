@@ -3,11 +3,11 @@
 
 Welcome to my GitHub, I’m Arief from Indonesia.
 
-My focus is on turning mathematical ideas into quantitative systems that decode market behavior. Anything that blends math and the markets instantly gets my attention.
+I’m all about turning math into quant systems that help decode market behavior. If it mixes numbers and the markets, I’m in.
 
-On a daily basis it’s learning, backtesting, learning, backtesting, learning, backtesting, rinse and repeat. I really believe that past performance can indicate future results (NVDA’s move wasn’t a total surprise, sometimes the past leaves clues ^_^).
+On a daily basis it’s learning, backtesting, learning, backtesting, learning, backtesting, rinse & repeat. I really believe that past performance can indicate future results (NVDA’s move wasn’t a total surprise, sometimes the past leaves clues ^_^).
 
-When I find a robust quant strategy, my focus shifts to breaking it, finding the flaws, fixing them, and then repeat the cycle. At some point, it stopped being about money. I just love the challenge. Cracking the market is the reward.
+Once I find a solid strategy, I try to break it, find the weak spots, fix them, and then run it all back again. Somewhere along the way, it stopped about money. I just love the challenge. Cracking the market is the reward.
 
 This space is where I share some of the things I'm building, testing, and exploring.
 
