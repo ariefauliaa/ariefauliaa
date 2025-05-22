@@ -3,7 +3,7 @@
 
 Welcome to my GitHub, I’m Arief from Indonesia.
 
-I’m all about turning math into quant systems that help decode market behavior. If it mixes numbers and the markets, I’m in.
+I’m all about turning math into quant systems that help decode market behavior. Anything that blends math and the markets instantly gets my attention.
 
 On a daily basis it’s learning, backtesting, learning, backtesting, learning, backtesting, rinse & repeat. I really believe that past performance can indicate future results (NVDA’s move wasn’t a total surprise, sometimes the past leaves clues ^_^).
 
