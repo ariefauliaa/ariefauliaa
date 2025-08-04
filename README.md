@@ -3,7 +3,7 @@
 
 Welcome to my GitHub, I’m Arief from Indonesia.
 
-I turn math into quant systems to decode market behavior. If it mixes math and markets, I’m in.
+I like math. I like markets. I build systems that combine both.
 
 On a daily basis it’s learning, backtesting, learning, backtesting, rinse & repeat. I really believe that past performance can indicate future results (NVDA’s move wasn’t a total surprise, sometimes the past leaves clues ^_^).
 
@@ -31,8 +31,6 @@ Here’s where I share what I’m building, testing, and tearing apart.
 
 ## 🧰 Tools & Tech
 
-- Programming: **Python**
-- Platforms: **Jupyter**, **VSCode**  
 - Libraries: **Pandas**, **NumPy**, **Scikit**, **Keras**, **TensorFlow**  
 - APIs & Data: **Bloomberg Finance LP**, **Refinitiv**, **EODHD** 
 - Workflow: **Linux based automation environments**
