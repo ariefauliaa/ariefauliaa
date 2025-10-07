@@ -33,7 +33,6 @@ Here’s where I share what I’m building, testing, and tearing apart.
 
 - Libraries: **Pandas**, **NumPy**, **Scikit**, **Keras**, **TensorFlow**  
 - APIs & Data: **Bloomberg Finance LP**, **Refinitiv**, **EODHD** 
-- Workflow: **Linux based automation environments**
 
 ---
 
